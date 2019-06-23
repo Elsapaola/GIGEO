@@ -11,7 +11,7 @@
   height: 100%;
 }
 
-@media (max-width: 600px) {
+@media screen and  (min-width: 320px) and (max-width: 800px) {
   .banner {
     padding: 37%;
     background-size: cover;
